@@ -14,6 +14,7 @@ git remote add origin git@github.com:username/repo'sname.git
 git push -u origin main
 
 *heroku login 
+*heroku create -a example-app
 *git push heroku main
 
 live deploying https://examplesss.herokuapp.com/
